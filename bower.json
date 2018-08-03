@@ -1,0 +1,21 @@
+{
+  "name": "pin_clone2",
+  "authors": [
+    "Dennis Haller <haller.dennis@gmail.com>"
+  ],
+  "description": "demo program from tutorial",
+  "main": "pin_clone2.py",
+  "keywords": [
+    "tutorial"
+  ],
+  "license": "MIT",
+  "homepage": "na",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
